@@ -6,7 +6,7 @@ Portable [Agent Skill](https://agentskills.io) by **Hailey**. It builds a real, 
 
 [![Brick-by-brick construction of a Chinese clock tower](assets/preview.gif)](https://github.com/lhlGitHub/threejs-architecture-effects/blob/main/assets/preview.mp4)
 
-<p align="center"><a href="https://github.com/lhlGitHub/threejs-architecture-effects/blob/main/assets/preview.mp4">Watch the full 29s demo →</a></p>
+<p align="center"><a href="https://github.com/lhlGitHub/threejs-architecture-effects/blob/main/assets/preview.mp4">Watch the full 20s demo →</a></p>
 
 <img src="assets/preview.png" alt="Completed clock-tower miniature" width="100%">
 
