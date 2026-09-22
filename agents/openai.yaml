@@ -1,0 +1,4 @@
+interface:
+  display_name: "Architecture Growth · Three.js"
+  short_description: "Build 3D heritage construction animations with eaves and cameras"
+  default_prompt: "Use $threejs-architecture-effects to make a three-storey Chinese pavilion from the bundled starter: red walls, dark-green tiles, timber eaves, brick-by-brick assembly, orbitable cameras, and a verified local run."
